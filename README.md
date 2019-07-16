@@ -54,4 +54,5 @@ Get-PexelsImage -APIKey $key -Keyword skyline -MatchCurrentResolution
 Import-Module ./Get-PexelsImage.psm1
 ```
 
-2. Have fun!
+2. Use `Get-PexelsImage` as shown above.
+3. Have fun!
